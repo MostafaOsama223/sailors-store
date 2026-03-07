@@ -721,7 +721,7 @@
         "group_KQtVJQ"
       ],
       "custom_css": [
-        ".button {color: #fff; font-weight: 600; letter-spacing: 4px; background: #6a614f;}"
+        ".button {font-weight: 600; letter-spacing: 4px;}"
       ],
       "name": "t:names.split_showcase",
       "settings": {
@@ -736,7 +736,7 @@
         "section_width": "page-width",
         "section_height": "full-screen",
         "section_height_custom": 50,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "background_media": "none",
         "video_position": "cover",
         "background_image_position": "cover",
