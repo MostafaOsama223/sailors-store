@@ -238,6 +238,7 @@
       "name": "t:names.hero_bottom_aligned",
       "settings": {
         "media_type_1": "image",
+        "image_1": "shopify://shop_images/SnapInsta.to_501067862_1536996207275165_6757307052413515363_n.jpg",
         "media_type_2": "image",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
@@ -254,7 +255,7 @@
         "vertical_alignment_flex_direction_column": "flex-end",
         "gap": 16,
         "section_width": "page-width",
-        "section_height": "medium",
+        "section_height": "large",
         "section_height_custom": 50,
         "color_scheme": "scheme-5",
         "toggle_overlay": true,
