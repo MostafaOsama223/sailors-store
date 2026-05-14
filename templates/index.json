@@ -562,8 +562,9 @@
               "blocks": {
                 "text_R7Q7Uj": {
                   "type": "text",
+                  "name": "Swimwear",
                   "settings": {
-                    "text": "<h3>Women</h3>",
+                    "text": "<h3>Swimwear</h3>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "center",
