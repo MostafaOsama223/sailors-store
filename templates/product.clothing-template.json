@@ -263,6 +263,40 @@
               },
               "blocks": {}
             },
+            "popup_link_j8nKV9": {
+              "type": "popup-link",
+              "name": "t:names.popup_link",
+              "settings": {
+                "behavior": "default",
+                "heading": "Learn more",
+                "type_preset": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "page_qrFDzB": {
+                  "type": "page",
+                  "name": "t:names.page",
+                  "settings": {
+                    "page": "size-chart",
+                    "inherit_color_scheme": true,
+                    "color_scheme": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "page_qrFDzB"
+              ]
+            },
             "icon_rUmXkx": {
               "type": "icon",
               "name": "t:names.icon",
@@ -271,29 +305,6 @@
                 "width": 24,
                 "link": "",
                 "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "image_nE9kYU": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_10.46.56_AM.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
               },
               "blocks": {}
             },
@@ -351,8 +362,8 @@
             "buy_buttons_eYQEYi",
             "button_TyjQ6g",
             "text_aEtTtq",
+            "popup_link_j8nKV9",
             "icon_rUmXkx",
-            "image_nE9kYU",
             "image_rUjBht",
             "image_iBECmx"
           ]
