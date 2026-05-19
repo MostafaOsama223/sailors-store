@@ -184,50 +184,162 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "text_CkXzzQ": {
-                      "type": "text",
+                    }
+                  },
+                  "block_order": [
+                    "page_VXdMac"
+                  ]
+                },
+                "popup_link_QEYHrt": {
+                  "type": "popup-link",
+                  "name": "t:names.popup_link",
+                  "settings": {
+                    "behavior": "default",
+                    "heading": "Return Policy",
+                    "type_preset": "",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "popup_link_JpYNFE": {
+                      "type": "popup-link",
+                      "name": "t:names.popup_link",
                       "settings": {
-                        "text": "<h2>What is the return policy?</h2>",
-                        "width": "fit-content",
-                        "max_width": "normal",
-                        "alignment": "left",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "wrap": "pretty",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
+                        "behavior": "default",
+                        "heading": "Shipping Policy",
+                        "type_preset": "",
                         "padding-block-start": 0,
-                        "padding-block-end": 16,
+                        "padding-block-end": 0,
                         "padding-inline-start": 0,
                         "padding-inline-end": 0
                       },
-                      "blocks": {}
+                      "blocks": {
+                        "image_gmcFWD": {
+                          "type": "image",
+                          "name": "t:names.image",
+                          "settings": {
+                            "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_AM.jpg",
+                            "link": "",
+                            "image_ratio": "adapt",
+                            "width": "fill",
+                            "custom_width": 100,
+                            "width_mobile": "fill",
+                            "custom_width_mobile": 100,
+                            "height": "fit",
+                            "border": "none",
+                            "border_width": 1,
+                            "border_opacity": 100,
+                            "border_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        },
+                        "text_GPNb4b": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<h2>What is the return policy?</h2>",
+                            "width": "fit-content",
+                            "max_width": "normal",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "1rem",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "color": "var(--color-foreground)",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 16,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        },
+                        "text_dtxMaG": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
+                            "width": "fit-content",
+                            "max_width": "normal",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "1rem",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "color": "var(--color-foreground)",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "image_gmcFWD",
+                        "text_GPNb4b",
+                        "text_dtxMaG"
+                      ]
                     },
-                    "text_fUgFPN": {
-                      "type": "text",
+                    "footer_policy_list_RCkt4e": {
+                      "type": "footer-policy-list",
+                      "name": "t:names.policy_list",
                       "settings": {
-                        "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
-                        "width": "fit-content",
-                        "max_width": "normal",
-                        "alignment": "left",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "wrap": "pretty",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
+                        "font_size": "0.75rem",
+                        "case": "none"
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "popup_link_JpYNFE",
+                    "footer_policy_list_RCkt4e"
+                  ]
+                },
+                "popup_link_ntQF6H": {
+                  "type": "popup-link",
+                  "name": "t:names.popup_link",
+                  "settings": {
+                    "behavior": "default",
+                    "heading": "Shipping Policy",
+                    "type_preset": "",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "image_Cn3xqE": {
+                      "type": "image",
+                      "name": "t:names.image",
+                      "settings": {
+                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_2.jpg",
+                        "link": "",
+                        "image_ratio": "adapt",
+                        "width": "fill",
+                        "custom_width": 100,
+                        "width_mobile": "fill",
+                        "custom_width_mobile": 100,
+                        "height": "fit",
+                        "border": "none",
+                        "border_width": 1,
+                        "border_opacity": 100,
+                        "border_radius": 0,
                         "padding-block-start": 0,
                         "padding-block-end": 0,
                         "padding-inline-start": 0,
@@ -237,16 +349,16 @@
                     }
                   },
                   "block_order": [
-                    "page_VXdMac",
-                    "text_CkXzzQ",
-                    "text_fUgFPN"
+                    "image_Cn3xqE"
                   ]
                 }
               },
               "block_order": [
                 "text_xpVMaM",
                 "price_tVjtKg",
-                "popup_link_WdiUHe"
+                "popup_link_WdiUHe",
+                "popup_link_QEYHrt",
+                "popup_link_ntQF6H"
               ]
             },
             "divider_VJhene": {
