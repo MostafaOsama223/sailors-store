@@ -169,11 +169,11 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
-                    "page_VXdMac": {
+                    "page_GKqwyJ": {
                       "type": "page",
                       "name": "t:names.page",
                       "settings": {
-                        "page": "size-chart-for-youth-t-shirts",
+                        "page": "size-chart",
                         "inherit_color_scheme": true,
                         "color_scheme": "",
                         "background": false,
@@ -187,7 +187,7 @@
                     }
                   },
                   "block_order": [
-                    "page_VXdMac"
+                    "page_GKqwyJ"
                   ]
                 },
                 "popup_link_QEYHrt": {
