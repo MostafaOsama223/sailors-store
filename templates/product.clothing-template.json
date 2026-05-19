@@ -280,7 +280,7 @@
                   "type": "page",
                   "name": "t:names.page",
                   "settings": {
-                    "page": "size-chart",
+                    "page": "size-chart-for-kids-hoodies",
                     "inherit_color_scheme": true,
                     "color_scheme": "",
                     "background": false,
