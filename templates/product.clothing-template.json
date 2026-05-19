@@ -51,7 +51,7 @@
             "custom_width_mobile": 100,
             "height": "fit",
             "details_position": "flex-start",
-            "gap": 28,
+            "gap": 3,
             "sticky_details_desktop": true,
             "inherit_color_scheme": true,
             "color_scheme": "scheme-1",
@@ -237,98 +237,6 @@
               },
               "blocks": {}
             },
-            "popup_link_wAneR6": {
-              "type": "popup-link",
-              "name": "t:names.popup_link",
-              "settings": {
-                "behavior": "default",
-                "heading": "Size Chart",
-                "type_preset": "",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {
-                "text_9Qpbw6": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<h2>What is the return policy?</h2>",
-                    "width": "fit-content",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 16,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                },
-                "text_HjzXpQ": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
-                    "width": "fit-content",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_9Qpbw6",
-                "text_HjzXpQ"
-              ]
-            },
-            "image_nE9kYU": {
-              "type": "image",
-              "name": "t:names.image",
-              "settings": {
-                "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_10.46.56_AM.jpg",
-                "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "text_aEtTtq": {
               "type": "text",
               "name": "Product description",
@@ -355,15 +263,33 @@
               },
               "blocks": {}
             },
-            "page_zgGUW3": {
-              "type": "page",
-              "name": "t:names.page",
+            "icon_rUmXkx": {
+              "type": "icon",
+              "name": "t:names.icon",
               "settings": {
-                "page": "size-chart",
-                "inherit_color_scheme": true,
-                "color_scheme": "",
-                "background": false,
-                "background_color": "#00000026",
+                "icon": "none",
+                "width": 24,
+                "link": "",
+                "open_in_new_tab": false
+              },
+              "blocks": {}
+            },
+            "image_nE9kYU": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_10.46.56_AM.jpg",
+                "link": "",
+                "image_ratio": "adapt",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
@@ -371,16 +297,39 @@
               },
               "blocks": {}
             },
-            "image_J8Y983": {
+            "image_rUjBht": {
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image": "shopify://shop_images/rn-image_picker_lib_temp_fd66139f-08d4-4b4a-a336-25f050426fe2.png",
+                "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_2.jpg",
                 "link": "",
-                "image_ratio": "adapt",
-                "width": "fill",
+                "image_ratio": "square",
+                "width": "fit-content",
                 "custom_width": 100,
-                "width_mobile": "fill",
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "image_iBECmx": {
+              "type": "image",
+              "name": "t:names.image",
+              "settings": {
+                "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_AM.jpg",
+                "link": "",
+                "image_ratio": "square",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
                 "custom_width_mobile": 100,
                 "height": "fit",
                 "border": "none",
@@ -401,11 +350,11 @@
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "button_TyjQ6g",
-            "popup_link_wAneR6",
-            "image_nE9kYU",
             "text_aEtTtq",
-            "page_zgGUW3",
-            "image_J8Y983"
+            "icon_rUmXkx",
+            "image_nE9kYU",
+            "image_rUjBht",
+            "image_iBECmx"
           ]
         }
       },
