@@ -168,12 +168,26 @@
                     "padding-inline-start": 0,
                     "padding-inline-end": 0
                   },
+                  "blocks": {}
+                },
+                "popup_link_c9ALJg": {
+                  "type": "popup-link",
+                  "name": "t:names.popup_link",
+                  "settings": {
+                    "behavior": "default",
+                    "heading": "Return Policy",
+                    "type_preset": "",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
                   "blocks": {
-                    "page_eP8Kc6": {
+                    "page_zpFCqh": {
                       "type": "page",
                       "name": "t:names.page",
                       "settings": {
-                        "page": "size-chart-for-youth-t-shirts",
+                        "page": "size-chart",
                         "inherit_color_scheme": true,
                         "color_scheme": "",
                         "background": false,
@@ -187,48 +201,7 @@
                     }
                   },
                   "block_order": [
-                    "page_eP8Kc6"
-                  ]
-                },
-                "popup_link_QEYHrt": {
-                  "type": "popup-link",
-                  "name": "t:names.popup_link",
-                  "settings": {
-                    "behavior": "default",
-                    "heading": "Return Policy",
-                    "type_preset": "",
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {
-                    "image_y9depe": {
-                      "type": "image",
-                      "name": "t:names.image",
-                      "settings": {
-                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_AM.jpg",
-                        "link": "",
-                        "image_ratio": "adapt",
-                        "width": "fill",
-                        "custom_width": 100,
-                        "width_mobile": "fill",
-                        "custom_width_mobile": 100,
-                        "height": "fit",
-                        "border": "none",
-                        "border_width": 1,
-                        "border_opacity": 100,
-                        "border_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    }
-                  },
-                  "block_order": [
-                    "image_y9depe"
+                    "page_zpFCqh"
                   ]
                 },
                 "popup_link_6GLeUU": {
@@ -277,7 +250,7 @@
                 "text_xpVMaM",
                 "price_tVjtKg",
                 "popup_link_WdiUHe",
-                "popup_link_QEYHrt",
+                "popup_link_c9ALJg",
                 "popup_link_6GLeUU"
               ]
             },
