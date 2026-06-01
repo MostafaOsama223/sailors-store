@@ -203,7 +203,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://collections/all",
+                    "link": "shopify://collections/youth-t-shirts",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
@@ -288,7 +288,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://collections/all",
+                    "link": "shopify://collections/kids-t-shirts",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
@@ -419,7 +419,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://collections/all",
+                    "link": "shopify://collections/mens-t-shirts",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
@@ -504,7 +504,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://pages/women",
+                    "link": "shopify://collections/women-t-shirts",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
@@ -590,7 +590,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://pages/women",
+                    "link": "shopify://collections/girls-swimwear",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
