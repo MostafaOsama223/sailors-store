@@ -276,6 +276,32 @@
                 "padding-inline-end": 0
               },
               "blocks": {
+                "text_z4kNrX": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Towels dimensions are 90X140 </p><p>90 x 170</p>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
                 "page_EC4znb": {
                   "type": "page",
                   "name": "t:names.page",
@@ -294,6 +320,7 @@
                 }
               },
               "block_order": [
+                "text_z4kNrX",
                 "page_EC4znb"
               ]
             },
@@ -407,7 +434,7 @@
             "avatar_background": "#2b2960",
             "avatar_text_color": "#ffffff",
             "star_size": 18,
-            "star_color": "#FFD700",
+            "star_color": "#ffd700",
             "star_empty_color": "#e6e6e6",
             "background_color": "#f5f5f5",
             "title_color": "#000000",
