@@ -156,6 +156,88 @@
                   },
                   "blocks": {}
                 },
+                "popup_link_6GLeUU": {
+                  "type": "popup-link",
+                  "name": "t:names.popup_link",
+                  "settings": {
+                    "behavior": "default",
+                    "heading": "Size Chart",
+                    "type_preset": "",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "image_ADip9h": {
+                      "type": "image",
+                      "name": "t:names.image",
+                      "settings": {
+                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_8.42.01_PM4.jpg",
+                        "link": "",
+                        "image_ratio": "adapt",
+                        "width": "fill",
+                        "custom_width": 100,
+                        "width_mobile": "fill",
+                        "custom_width_mobile": 100,
+                        "height": "fit",
+                        "border": "none",
+                        "border_width": 1,
+                        "border_opacity": 100,
+                        "border_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "image_ADip9h"
+                  ]
+                },
+                "popup_link_67ND6Q": {
+                  "type": "popup-link",
+                  "name": "t:names.popup_link",
+                  "settings": {
+                    "behavior": "default",
+                    "heading": "Shipping Policy",
+                    "type_preset": "",
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "image_3thzaq": {
+                      "type": "image",
+                      "name": "t:names.image",
+                      "settings": {
+                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_2.jpg",
+                        "link": "",
+                        "image_ratio": "adapt",
+                        "width": "fill",
+                        "custom_width": 100,
+                        "width_mobile": "fill",
+                        "custom_width_mobile": 100,
+                        "height": "fit",
+                        "border": "none",
+                        "border_width": 1,
+                        "border_opacity": 100,
+                        "border_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "image_3thzaq"
+                  ]
+                },
                 "popup_link_c9ALJg": {
                   "type": "popup-link",
                   "name": "t:names.popup_link",
@@ -169,12 +251,35 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
+                    "image_X8idC4": {
+                      "type": "image",
+                      "name": "t:names.image",
+                      "settings": {
+                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_AM_fc0b3776-510d-4f80-a4cf-3d52dfb06f02.jpg",
+                        "link": "",
+                        "image_ratio": "adapt",
+                        "width": "fill",
+                        "custom_width": 100,
+                        "width_mobile": "fill",
+                        "custom_width_mobile": 100,
+                        "height": "fit",
+                        "border": "none",
+                        "border_width": 1,
+                        "border_opacity": 100,
+                        "border_radius": 0,
+                        "padding-block-start": 0,
+                        "padding-block-end": 0,
+                        "padding-inline-start": 0,
+                        "padding-inline-end": 0
+                      },
+                      "blocks": {}
+                    },
                     "popup_link_BBdCp8": {
                       "type": "popup-link",
                       "name": "t:names.popup_link",
                       "settings": {
-                        "behavior": "drawer",
-                        "heading": "Size Chart",
+                        "behavior": "default",
+                        "heading": "Learn more",
                         "type_preset": "",
                         "padding-block-start": 0,
                         "padding-block-end": 0,
@@ -240,56 +345,17 @@
                     }
                   },
                   "block_order": [
+                    "image_X8idC4",
                     "popup_link_BBdCp8"
-                  ]
-                },
-                "popup_link_6GLeUU": {
-                  "type": "popup-link",
-                  "name": "t:names.popup_link",
-                  "settings": {
-                    "behavior": "default",
-                    "heading": "Shipping Policy",
-                    "type_preset": "",
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {
-                    "image_ADip9h": {
-                      "type": "image",
-                      "name": "t:names.image",
-                      "settings": {
-                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_11.57.23_2.jpg",
-                        "link": "",
-                        "image_ratio": "adapt",
-                        "width": "fill",
-                        "custom_width": 100,
-                        "width_mobile": "fill",
-                        "custom_width_mobile": 100,
-                        "height": "fit",
-                        "border": "none",
-                        "border_width": 1,
-                        "border_opacity": 100,
-                        "border_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    }
-                  },
-                  "block_order": [
-                    "image_ADip9h"
                   ]
                 }
               },
               "block_order": [
                 "text_xpVMaM",
                 "price_tVjtKg",
-                "popup_link_c9ALJg",
-                "popup_link_6GLeUU"
+                "popup_link_6GLeUU",
+                "popup_link_67ND6Q",
+                "popup_link_c9ALJg"
               ]
             },
             "divider_VJhene": {
