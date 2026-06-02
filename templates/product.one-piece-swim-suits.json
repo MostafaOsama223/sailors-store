@@ -169,11 +169,11 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
-                    "image_JVXjgN": {
+                    "image_AEw4Hr": {
                       "type": "image",
                       "name": "t:names.image",
                       "settings": {
-                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_8.42.01_PM4.jpg",
+                        "image": "shopify://shop_images/WhatsApp_Image_2026-05-19_at_8.42.01_PM_29d70325-7810-4ac3-8f30-139baccc0cf6.jpg",
                         "link": "",
                         "image_ratio": "adapt",
                         "width": "fill",
@@ -194,7 +194,7 @@
                     }
                   },
                   "block_order": [
-                    "image_JVXjgN"
+                    "image_AEw4Hr"
                   ]
                 },
                 "popup_link_67ND6Q": {
