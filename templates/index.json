@@ -97,6 +97,7 @@
         "group_8gCLfb": {
           "type": "group",
           "name": "t:names.group",
+          "disabled": true,
           "settings": {
             "content_direction": "row",
             "vertical_on_mobile": true,
@@ -136,6 +137,7 @@
           "blocks": {
             "group_hLrC63": {
               "type": "group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -221,6 +223,7 @@
             },
             "group_UCfXK7": {
               "type": "group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -313,6 +316,7 @@
         "group_KQtVJQ": {
           "type": "group",
           "name": "t:names.group",
+          "disabled": true,
           "settings": {
             "content_direction": "row",
             "vertical_on_mobile": true,
@@ -352,6 +356,7 @@
           "blocks": {
             "group_rtXRwK": {
               "type": "group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -437,6 +442,7 @@
             },
             "group_A7MzGt": {
               "type": "group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -522,6 +528,7 @@
             },
             "group_xLMW4D": {
               "type": "group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
