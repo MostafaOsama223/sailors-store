@@ -203,7 +203,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://collections/youth-t-shirts",
+                    "link": "shopify://collections/t-shirts",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
