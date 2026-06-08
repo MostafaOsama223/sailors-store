@@ -97,7 +97,6 @@
         "group_8gCLfb": {
           "type": "group",
           "name": "t:names.group",
-          "disabled": true,
           "settings": {
             "content_direction": "row",
             "vertical_on_mobile": true,
@@ -137,7 +136,6 @@
           "blocks": {
             "group_hLrC63": {
               "type": "group",
-              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -179,7 +177,7 @@
                 "text_9R9Qnm": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Youth</h3>",
+                    "text": "<h3>T-shirts</h3>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "center",
@@ -223,7 +221,6 @@
             },
             "group_UCfXK7": {
               "type": "group",
-              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -243,7 +240,7 @@
                 "color_scheme": "scheme-5",
                 "background_media": "image",
                 "video_position": "cover",
-                "background_image": "shopify://shop_images/6.png",
+                "background_image": "shopify://shop_images/WhatsApp_Image_2026-06-08_at_11.16.23_PM.jpg",
                 "background_image_position": "cover",
                 "border": "none",
                 "border_width": 1,
@@ -265,7 +262,7 @@
                 "text_gTWRyB": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Kids</h3>",
+                    "text": "<h3>Swimwear</h3>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "center",
@@ -278,7 +275,7 @@
                     "wrap": "pretty",
                     "color": "var(--color-foreground)",
                     "background": false,
-                    "background_color": "#00000026",
+                    "background_color": "#00000003",
                     "corner_radius": 0,
                     "padding-block-start": 0,
                     "padding-block-end": 0,
@@ -291,7 +288,7 @@
                   "type": "button",
                   "settings": {
                     "label": "SHOP NOW",
-                    "link": "shopify://collections/kids-t-shirts",
+                    "link": "shopify://collections/swimwear",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
@@ -316,7 +313,6 @@
         "group_KQtVJQ": {
           "type": "group",
           "name": "t:names.group",
-          "disabled": true,
           "settings": {
             "content_direction": "row",
             "vertical_on_mobile": true,
