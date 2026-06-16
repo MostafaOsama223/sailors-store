@@ -12,27 +12,6 @@
     "main": {
       "type": "product-information",
       "blocks": {
-        "ez_preorder_notify_me_CcqWyN": {
-          "type": "shopify://apps/ez-preorder/blocks/notify-me/27f5c03b-584b-4f19-8dc2-99bf52c8c09f",
-          "settings": {
-            "button_text": "Notify me when available",
-            "button_color": "#120E82",
-            "button_text_color": "#FFFFFF",
-            "button_border_color": "#820E0E",
-            "button_border_width": 0,
-            "button_border_radius": 26,
-            "button_font_size": 16,
-            "button_font_weight": 400,
-            "button_alignment": "center",
-            "button_max_width_desktop": 320,
-            "popup_title": "Notify me when available",
-            "popup_background_color": "#ffffff",
-            "popup_text_color": "#120E82",
-            "submit_button_color": "#120E82",
-            "submit_button_text_color": "#ffffff",
-            "submit_button_text": "Submit"
-          }
-        },
         "media-gallery": {
           "type": "_product-media-gallery",
           "static": true,
@@ -439,6 +418,27 @@
               },
               "block_order": []
             },
+            "ez_preorder_notify_me_rVXKrn": {
+              "type": "shopify://apps/ez-preorder/blocks/notify-me/27f5c03b-584b-4f19-8dc2-99bf52c8c09f",
+              "settings": {
+                "button_text": "Notify me when available",
+                "button_color": "#820E0E",
+                "button_text_color": "#FFFFFF",
+                "button_border_color": "#A00C0C",
+                "button_border_width": 1,
+                "button_border_radius": 50,
+                "button_font_size": 16,
+                "button_font_weight": 400,
+                "button_alignment": "center",
+                "button_max_width_desktop": 480,
+                "popup_title": "Notify me when available",
+                "popup_background_color": "#FFFFFF",
+                "popup_text_color": "#120E82",
+                "submit_button_color": "#120E82",
+                "submit_button_text_color": "#ffffff",
+                "submit_button_text": "Submit"
+              }
+            },
             "text_aEtTtq": {
               "type": "text",
               "name": "Product description",
@@ -471,13 +471,11 @@
             "divider_VJhene",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
+            "ez_preorder_notify_me_rVXKrn",
             "text_aEtTtq"
           ]
         }
       },
-      "block_order": [
-        "ez_preorder_notify_me_CcqWyN"
-      ],
       "settings": {
         "content_width": "content-center-aligned",
         "desktop_media_position": "left",
