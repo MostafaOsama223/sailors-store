@@ -12,6 +12,27 @@
     "main": {
       "type": "product-information",
       "blocks": {
+        "ez_preorder_notify_me_CcqWyN": {
+          "type": "shopify://apps/ez-preorder/blocks/notify-me/27f5c03b-584b-4f19-8dc2-99bf52c8c09f",
+          "settings": {
+            "button_text": "Notify me when available",
+            "button_color": "#ffffff",
+            "button_text_color": "#120E82",
+            "button_border_color": "#120E82",
+            "button_border_width": 1,
+            "button_border_radius": 0,
+            "button_font_size": 16,
+            "button_font_weight": 400,
+            "button_alignment": "center",
+            "button_max_width_desktop": 480,
+            "popup_title": "Notify me when available",
+            "popup_background_color": "#ffffff",
+            "popup_text_color": "#000000",
+            "submit_button_color": "#120E82",
+            "submit_button_text_color": "#ffffff",
+            "submit_button_text": "Submit"
+          }
+        },
         "media-gallery": {
           "type": "_product-media-gallery",
           "static": true,
@@ -454,6 +475,9 @@
           ]
         }
       },
+      "block_order": [
+        "ez_preorder_notify_me_CcqWyN"
+      ],
       "settings": {
         "content_width": "content-center-aligned",
         "desktop_media_position": "left",
