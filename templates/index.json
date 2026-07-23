@@ -275,7 +275,7 @@
                     "wrap": "pretty",
                     "color": "var(--color-foreground)",
                     "background": true,
-                    "background_color": "#00000003",
+                    "background_color": "#07195F03",
                     "corner_radius": 0,
                     "padding-block-start": 0,
                     "padding-block-end": 0,
