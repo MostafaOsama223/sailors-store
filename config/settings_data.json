@@ -10,8 +10,8 @@
 {
   "current": {
     "logo": "shopify://shop_images/Sailors_Logo__20251020_221706_0000.png",
-    "logo_height": 36,
-    "logo_height_mobile": 28,
+    "logo_height": 100,
+    "logo_height_mobile": 100,
     "favicon": "shopify://shop_images/Sailors_Logo__20251020_221706_0000.png",
     "type_body_font": "poppins_n4",
     "type_subheading_font": "poppins_n5",
@@ -61,6 +61,7 @@
     "cart_price_font": "subheading",
     "show_cart_note": false,
     "show_add_discount_code": true,
+    "cart_thumbnail_border_radius": 0,
     "drawer_drop_shadow": true,
     "icon_stroke": "default",
     "input_border_width": 1,
@@ -71,7 +72,7 @@
     "currency_code_enabled_product_cards": false,
     "currency_code_enabled_cart_items": false,
     "product_corner_radius": 0,
-    "card_corner_radius": 4,
+    "card_corner_radius": 0,
     "show_variant_image": false,
     "variant_swatch_width": 34,
     "variant_swatch_height": 34,
