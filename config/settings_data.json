@@ -97,6 +97,11 @@
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
+      },
+      "10079291745046185384": {
+        "type": "shopify://apps/gp-free-shipping-bar/blocks/gp-free-shipping-bar/16d583b7-9d73-49c5-ab8b-03eb1334379c",
+        "disabled": true,
+        "settings": {}
       }
     },
     "color_schemes": {
