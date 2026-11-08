@@ -100,7 +100,7 @@
       },
       "10079291745046185384": {
         "type": "shopify://apps/gp-free-shipping-bar/blocks/gp-free-shipping-bar/16d583b7-9d73-49c5-ab8b-03eb1334379c",
-        "disabled": true,
+        "disabled": false,
         "settings": {}
       }
     },
